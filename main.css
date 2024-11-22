@@ -269,3 +269,18 @@ footer hr {
 .row.halves>img {
     width: 48%;
 }
+
+.movethistotheleft {
+margin-left:-1900px;
+font-size: 36px;
+}
+
+.myfooterimg{
+width:70px;
+margin-left: -168vh;
+margin-top: -90px;
+}
+
+.movethisup{
+margin-top: -90px;
+}
